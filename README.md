@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on Some collaborative projects and personal projects
 - 🌱 I’m currently learning MERN stack.
 - 👯 I’m looking to collaborate on interesting projecs.
-- 💬 Ask me about React, Javascript , Digital marketing
+- 💬 Ask me about React, Javascript ,Material UI, Digital marketing
 
 <!--
 **mathinicarole/mathinicarole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
