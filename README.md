@@ -3,6 +3,13 @@
 - 🌱 I’m currently learning MERN stack.
 - 👯 I’m looking to collaborate on interesting projecs.
 - 💬 Ask me about React, Javascript ,Material UI, Digital marketing
+-  🤔 I’m looking for help with ...
+- 💬 I am a Microsoft Learn student ambassador
+- 📫 How to reach me: ..@https://twitter.com/mathinicarole-twitter
+-                      @https://www.linkedin.com/in/mathinicarole/-linkedIn
+- 😄Technier ambassador and Google crowdsource influencer
+- ⚡ Fun fact: ...I love dancing and hanging out with my loved ones
+--
 
 <!--
 **mathinicarole/mathinicarole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
